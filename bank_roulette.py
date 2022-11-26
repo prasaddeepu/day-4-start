@@ -6,3 +6,4 @@ random_num = random.randint(0,len(names) - 1)
 person = random.choice(names)
 
 print(f"The person picked to pay the bill is: {person}" )
+#new comment
